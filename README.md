@@ -1,5 +1,5 @@
-# srihari-projet
-image recognition
+# Srihari-Projet
+image recognition,image processing
 # EasyOCR
 
 [![PyPI Status](https://badge.fury.io/py/easyocr.svg)](https://badge.fury.io/py/easyocr)

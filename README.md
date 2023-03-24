@@ -1,2 +1,2 @@
 # srihari-projet
-image regonation
+image recognition

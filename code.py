@@ -23,6 +23,7 @@ cv2.destroyAllWindows()
 
 
 '''
+******COMMAND LINES******
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
